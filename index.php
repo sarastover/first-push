@@ -26,6 +26,7 @@ $myBool = true;
 
 echo "<p>This statement is true? ".$myBool."</p>";
 
+$name = "Sara";
 $variableName = "name";
 
 echo $$variableName;
